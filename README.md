@@ -1,5 +1,8 @@
 # Task Manager AI Comparison
 
+## Feature Added
+- Search/Filter feature implemented
+
 ## Live Deployments
 
 * Pair Version: https://task-manager-ai-comparison.vercel.app/
